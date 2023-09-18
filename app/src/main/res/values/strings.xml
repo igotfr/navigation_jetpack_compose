@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">system</string>
+
+    <string name="bottom_bar_home">Home</string>
+    <string name="bottom_bar_profile">Profile</string>
+    <string name="bottom_bar_settings">Settings</string>
+</resources>
